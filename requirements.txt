@@ -1,0 +1,7 @@
+discord==1.0.1
+
+discord.py==1.3.4
+
+koreanbots==0.2.1
+
+PingPongTool==1.0.0
