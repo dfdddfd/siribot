@@ -36,7 +36,7 @@ async def Echo(ctx, *, text: str):
 
 @bot.command(name="hellothisisverification")
 async def Echo(ctx):
-    await ctx.send("WHAT ARE YOU?#6367(617286714615922698)")
+    await ctx.send("유저닉네임#유저태그(유저ID)")
 
 @bot.event
 async def on_ready():
