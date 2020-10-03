@@ -11,7 +11,7 @@ TOKEN = "토큰"
 Authorization = "핑퐁빌더 api 토큰"
 URL = "핑퐁빌더 api 링크"
 
-bot = commands.Bot(command_prefix=['!', '시리야 '])
+bot = commands.Bot(command_prefix=['시리야 '])
 Ping = PingPong(URL, Authorization)
 
 
