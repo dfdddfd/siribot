@@ -13,4 +13,4 @@ git 필요
 라이선스를 지켜주세요
 
 # 사용된 오픈소스
-PingPongTool
+[PingPongTool](https://github.com/minibox24/PingPongTool)
